@@ -1,0 +1,9 @@
+instructions:
+- type: general
+  content: /
+    Below is a conversation between a analytics assistant of Hospital and a user.
+
+models:
+- type: main
+  engine: vertexai
+  model: text-bison
