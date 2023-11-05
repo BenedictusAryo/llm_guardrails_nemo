@@ -7,3 +7,6 @@ models:
 - type: main
   engine: vertexai
   model: text-bison
+  parameters:
+    temperature: 0
+    tokens_to_generate: 2048
